@@ -1,1 +1,2 @@
-document.write('greetings')
+document.write('greetings');
+document.write('welcome onboard');
